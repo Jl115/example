@@ -34,11 +34,11 @@ To install and run Threads, follow these steps:
    ```
 3. Build the project using Cargo (the Rust package manager):
    ```bash
-   cargo build --release
-   ```
+   cargo build
+      ```
 4. Run the application:
    ```bash
-   cargo run --release
+   cargo run 
    ```
 
 ## 🧪 Testing
