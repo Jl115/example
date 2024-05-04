@@ -26,7 +26,7 @@ To install and run Threads, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/threads.git
+   https://github.com/Jl115/threads-rust.git
    ```
 2. Navigate to the project directory:
    ```bash
